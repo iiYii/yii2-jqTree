@@ -10,7 +10,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require forecho/yii2-jqTree "*"
+php composer.phar require forecho/yii2-jqtree "*"
 ```
 or add
 

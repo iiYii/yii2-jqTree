@@ -2,7 +2,7 @@
 	"name": "forecho/yii2-jqtree",
 	"description": "jqTree widget for Yii2.",
 	"keywords": ["yii", "extension", "widget", "jqtree"],
-	"homepage": "https://github.com/iiYii/yii2-jqTree",
+	"homepage": "https://github.com/iiYii/yii2-jqtree",
 	"type": "yii2-extension",
 	"license": "BSD-3-Clause",
 	"authors": [

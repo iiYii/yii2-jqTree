@@ -5,7 +5,7 @@ use yii\web\AssetBundle;
 
 class JQTreeAssets extends AssetBundle
 {
-    public $sourcePath = '@vendor/forecho/yii2-jqTree/assets';
+    public $sourcePath = '@vendor/forecho/yii2-jqtree/assets';
 
     public $css = [
         'css/jqtree.css',
