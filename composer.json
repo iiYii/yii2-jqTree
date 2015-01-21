@@ -19,7 +19,7 @@
 	"minimum-stability": "dev",
 	"require": {
 		"yiisoft/yii2": "*",
-		"bower-asset/jqtree": "*",
+		"bower-asset/jqtree": "*"
 	},
 	"autoload": {
 		"psr-4": {
