@@ -1,5 +1,5 @@
 {
-	"name": "forecho/jqtree",
+	"name": "forecho/yii2-jqTree",
 	"description": "jqTree widget for Yii2.",
 	"keywords": ["yii", "extension", "widget", "jqtree"],
 	"homepage": "https://github.com/iiYii/yii2-jqTree",
