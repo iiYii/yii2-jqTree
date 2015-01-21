@@ -25,9 +25,22 @@ Usage
 Using a model:
 
 ```php
+<?php
 use forecho\jqtree\JQTree;
 
-<?= JQTree::widget([
+$dataTree = [
+    [
+        'label' => 'node1',
+        'children' => array(
+            ['label' => 'child1'],
+            ['label' => 'child2'],
+        ),
+    ],
+    ['label' => 'node2'],
+
+];
+
+echo JQTree::widget([
     'id' => 'treeview',
     'data' => $dataTree,
     'dragAndDrop' => true,
