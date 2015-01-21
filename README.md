@@ -22,7 +22,6 @@ to the require section of your application's `composer.json` file.
 
 Usage
 -----
-Using a model:
 
 ```php
 <?php
@@ -37,7 +36,6 @@ $dataTree = [
         ),
     ],
     ['label' => 'node2'],
-
 ];
 
 echo JQTree::widget([
