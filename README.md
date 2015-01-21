@@ -15,7 +15,7 @@ php composer.phar require forecho/yii2-jqTree "*"
 or add
 
 ```json
-"forecho/yii2-jqTree" : "*"
+"forecho/yii2-jqtree" : "*"
 ```
 
 to the require section of your application's `composer.json` file.
